@@ -13,4 +13,5 @@ let accountState;
 
 
  console.log([accountEmail,accountId,accountPassword,accountState,accountCity]);
+ console.table([accountEmail,accountId,accountPassword,accountState,accountCity]);
 
