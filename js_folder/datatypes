@@ -26,3 +26,13 @@ console.log(typeof null);  //typeof null returns an object
 
 
 
+//datatypes
+//primitive
+//7 types:-
+
+//String,number,Boolean,null,undefined,symbol,BigInt
+//Reference(non primitive)
+
+//Array,objects,functions
+
+//javascript is dynamically type language
